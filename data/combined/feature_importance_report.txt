@@ -1,0 +1,39 @@
+
+=== Numerical Features Analysis ===
+Correlation Matrix:
+                release_year  added_year  added_month  duration_value
+release_year        1.000000    0.063076    -0.132802       -0.129452
+added_year          0.063076    1.000000    -0.139683       -0.042670
+added_month        -0.132802   -0.139683     1.000000       -0.024246
+duration_value     -0.129452   -0.042670    -0.024246        1.000000
+
+=== Categorical Features Analysis ===
+rating: 0.3231
+source: 0.2683
+type: 0.0628
+
+=== Text Features Analysis ===
+
+listed_in:
+Importance Score: 0.0167
+Top Terms: suspense, comedies, kids, dramas, international, action, tv, comedy, movies, drama
+
+country:
+Importance Score: 0.0047
+Top Terms: germany, south, spain, france, japan, canada, kingdom, india, states, united
+
+description:
+Importance Score: 0.0028
+Top Terms: woman, story, friends, man, love, family, young, world, new, life
+
+cast:
+Importance Score: 0.0018
+Top Terms: peter, tom, richard, lee, robert, paul, james, david, michael, john
+
+title:
+Importance Score: 0.0008
+Top Terms: black, time, movie, little, christmas, world, story, life, man, love
+
+director:
+Importance Score: 0.0007
+Top Terms: chris, richard, peter, paul, james, robert, mark, david, john, michael

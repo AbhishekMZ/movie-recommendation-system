@@ -1,0 +1,501 @@
+user_id,age,gender,country,subscription_type,subscription_date,preferred_genres,preferred_type,movie_ratio
+USR_001,45,Other,Canada,Standard,2023-09-16,"Independent Movies,Kids,Comedy",Both,54
+USR_002,51,M,India,Standard,2023-05-21,"Lifestyle,Kids",Movie,90
+USR_003,28,F,USA,Basic,2023-07-11,"Animals & Nature,Young Adult Audience",Movie,90
+USR_004,60,Other,Mexico,Basic,2023-03-21,"Romantic Comedy,TV Thrillers,Talk Show",TV Show,10
+USR_005,37,Other,Brazil,Premium,2023-07-12,"Variety,Horror,Talk Show and Variety",Movie,90
+USR_006,19,F,Canada,Basic,2023-09-02,"Independent Movies,Crime,Reality TV,Horror",TV Show,10
+USR_007,63,Other,Japan,Standard,2023-11-30,"Music,and Culture,TV Action & Adventure,Action-Adventure,Children & Family Movies",Both,58
+USR_008,20,M,Mexico,Premium,2023-11-07,"Kids,Science & Nature TV",Movie,90
+USR_009,22,M,UK,Standard,2024-08-02,"Spanish-Language TV Shows,Fantasy,Musical,Reality TV,Family",TV Show,10
+USR_010,60,Other,France,Basic,2024-03-13,"Military and War,Horror Movies,Faith and Spirituality,Dance,Comedies",Movie,90
+USR_011,35,Other,USA,Standard,2024-05-19,"Talk Show and Variety,Special Interest,Anthology,Musical,Docuseries",Movie,90
+USR_012,43,M,Japan,Standard,2023-05-02,"Comedy,Fitness,International Movies,Arts,Science Fiction",TV Show,10
+USR_013,51,M,Brazil,Standard,2023-04-21,"Mystery,Action-Adventure,Western",TV Show,10
+USR_014,31,M,Australia,Basic,2023-11-29,"Animals & Nature,Game Show / Competition,Series",Both,34
+USR_015,25,M,France,Basic,2022-12-18,"Comedy,Anime Series,LGBTQ Movies,Cult Movies",TV Show,10
+USR_016,54,M,India,Premium,2023-11-08,"Faith & Spirituality,Comedy,Parody,Dramas",Movie,90
+USR_017,39,F,Mexico,Basic,2023-02-23,"Science Fiction,Concert Film,TV Comedies",Movie,90
+USR_018,39,Other,USA,Basic,2024-01-16,"Superhero,Spy/Espionage,Kids",TV Show,10
+USR_019,37,M,Brazil,Premium,2023-09-07,"Coming of Age,Thriller,International Movies",Movie,90
+USR_020,40,F,Germany,Basic,2024-07-29,"Crime,Science & Nature TV,Kids' TV",Movie,90
+USR_021,30,Other,France,Basic,2023-12-18,"Dramas,Medical,Animation",Both,40
+USR_022,52,M,Canada,Premium,2024-06-07,"Western,Musical,Anime",Movie,90
+USR_023,44,F,Canada,Basic,2023-06-16,"Action & Adventure,Talk Show,Science Fiction",TV Show,10
+USR_024,34,M,USA,Premium,2024-07-10,"Arts,Korean TV Shows,Cult Movies,International Movies",Movie,90
+USR_025,52,M,Canada,Premium,2024-02-10,"TV Dramas,Horror Movies,TV Comedies",TV Show,10
+USR_026,34,Other,Canada,Basic,2024-02-23,"Series,Stand-Up Comedy & Talk Shows",Both,36
+USR_027,51,Other,Canada,Standard,2024-07-14,"Lifestyle,Thriller",TV Show,10
+USR_028,27,F,India,Basic,2023-07-17,"Faith & Spirituality,Anime Features,Biographical",Both,50
+USR_029,40,M,Germany,Premium,2024-01-26,"Special Interest,TV Sci-Fi & Fantasy,Adventure,Crime",Movie,90
+USR_030,31,M,Australia,Premium,2023-03-01,"Arthouse,Romantic Comedy,Romance,Documentaries",Movie,90
+USR_031,36,Other,Japan,Basic,2023-01-19,"Animals & Nature,Mystery,Anthology,Dramas,Faith & Spirituality",Both,58
+USR_032,31,M,UK,Premium,2024-08-18,"Animation,Kids,Concert Film",Movie,90
+USR_033,48,Other,Canada,Premium,2023-05-23,"Documentaries,Suspense",Movie,90
+USR_034,35,M,UK,Premium,2023-03-26,"Lifestyle,Buddy,Dramas,Classic & Cult TV,Kids",Movie,90
+USR_035,20,M,Mexico,Premium,2024-11-17,"Independent Movies,Music",TV Show,10
+USR_036,31,Other,Mexico,Basic,2023-09-23,"Horror,Animation,Cult Movies,Thriller,International TV Shows",Movie,90
+USR_037,70,M,Brazil,Premium,2023-07-09,"LGBTQ,Anime Features,Suspense",TV Show,10
+USR_038,66,Other,USA,Standard,2024-06-22,"TV Horror,Action",TV Show,10
+USR_039,39,Other,Japan,Premium,2024-04-07,"Sci-Fi & Fantasy,Teen TV Shows",TV Show,10
+USR_040,40,M,Germany,Premium,2023-06-08,"Unscripted,Arts,Survival",Movie,90
+USR_041,65,Other,USA,Basic,2024-08-30,"Horror Movies,TV Action & Adventure",TV Show,10
+USR_042,39,M,Canada,Basic,2023-09-02,"Faith and Spirituality,Sports,Comedies",Movie,90
+USR_043,30,M,France,Premium,2023-12-18,"Young Adult Audience,Concert Film",Both,70
+USR_044,41,M,Mexico,Basic,2023-09-14,"Anime Features,International,TV Comedies,Documentary",Movie,90
+USR_045,24,M,UK,Standard,2023-12-01,"Buddy,Superhero",Movie,90
+USR_046,35,F,Mexico,Standard,2023-05-19,"Survival,International Movies",Both,58
+USR_047,50,F,Australia,Premium,2023-03-21,"Anime Features,Music & Musicals,Thrillers",Movie,90
+USR_048,24,Other,Germany,Basic,2024-03-18,"Horror,Family,Crime,Entertainment,Parody",Movie,90
+USR_049,63,M,India,Premium,2023-01-17,"Travel,Horror,Medical,Unscripted,Faith and Spirituality",Both,42
+USR_050,18,M,India,Premium,2023-07-26,"Anthology,Music,Young Adult Audience",Both,38
+USR_051,26,F,Brazil,Premium,2023-06-23,"Documentaries,Fitness,Biographical,Anime Series,Concert Film",Both,64
+USR_052,41,Other,India,Basic,2024-11-10,"Parody,International Movies,Game Show / Competition,Animals & Nature,TV Dramas",TV Show,10
+USR_053,38,Other,UK,Premium,2022-12-05,"Faith & Spirituality,Children & Family Movies",TV Show,10
+USR_054,49,Other,USA,Standard,2023-03-03,"Horror Movies,Military and War,Independent Movies,TV Thrillers,International TV Shows",Movie,90
+USR_055,60,M,Australia,Standard,2024-09-30,"Teen TV Shows,International Movies,TV Action & Adventure,Romantic Comedy,Arthouse",Movie,90
+USR_056,31,Other,Canada,Premium,2024-04-02,"Parody,Romance,TV Horror",TV Show,10
+USR_057,62,Other,Mexico,Standard,2023-06-23,"International,Anime Features,TV Thrillers,Music Videos and Concerts,Historical",Both,53
+USR_058,30,Other,Canada,Standard,2024-03-25,"Thrillers,Soap Opera / Melodrama,Military and War,Music,Comedies",TV Show,10
+USR_059,46,F,France,Premium,2023-09-03,"Stand-Up Comedy,Music & Musicals,Science & Nature TV,Entertainment",Movie,90
+USR_060,59,F,Canada,Premium,2023-05-24,"Arts,Stand-Up Comedy & Talk Shows,Faith & Spirituality",TV Show,10
+USR_061,37,Other,USA,Basic,2023-08-10,"Biographical,International,Anthology,Fantasy,Faith and Spirituality",Both,35
+USR_062,40,F,Brazil,Premium,2023-04-01,"Teen TV Shows,Family,Buddy,Anime",Both,70
+USR_063,23,F,USA,Standard,2023-02-06,"Dance,Survival,LGBTQ Movies,International TV Shows,Music",TV Show,10
+USR_064,69,Other,India,Basic,2023-11-13,"Music Videos and Concerts,Western",Both,32
+USR_065,22,F,India,Basic,2023-07-14,"TV Sci-Fi & Fantasy,Teen TV Shows",Movie,90
+USR_066,63,Other,Japan,Basic,2024-01-29,"Classic & Cult TV,Dramas,Superhero",TV Show,10
+USR_067,56,M,Japan,Premium,2023-09-27,"LGBTQ Movies,Documentary,Action & Adventure",Both,70
+USR_068,66,Other,France,Premium,2022-12-26,"Superhero,Young Adult Audience,Romance",TV Show,10
+USR_069,34,M,UK,Basic,2023-07-24,"Action,Disaster,Talk Show,Lifestyle,Superhero",TV Show,10
+USR_070,52,Other,UK,Premium,2023-05-23,"TV Sci-Fi & Fantasy,International TV Shows,Anime,Fantasy,Series",Movie,90
+USR_071,25,M,UK,Premium,2023-03-13,"Biographical,Independent Movies",Both,66
+USR_072,53,M,Germany,Premium,2024-11-02,"Comedy,Mystery,Reality,Classic Movies",Both,68
+USR_073,52,M,Australia,Standard,2023-06-26,"Spy/Espionage,Spanish-Language TV Shows,Young Adult Audience,Drama",Movie,90
+USR_074,62,M,Canada,Basic,2024-09-20,"Comedy,Spy/Espionage,International TV Shows,Anime,Sports Movies",Movie,90
+USR_075,18,F,Australia,Basic,2023-11-27,"Kids' TV,Sci-Fi & Fantasy,Survival,Thriller",TV Show,10
+USR_076,70,M,Mexico,Basic,2023-02-23,"Anthology,Family,Faith and Spirituality",Both,41
+USR_077,55,Other,Brazil,Premium,2023-08-14,"Biographical,Music Videos and Concerts,Sports Movies,Soap Opera / Melodrama,International TV Shows",Movie,90
+USR_078,50,Other,Germany,Premium,2023-05-21,"Action,Superhero,and Culture,Korean TV Shows,Fitness",Both,63
+USR_079,37,F,Japan,Standard,2024-08-01,"Stand-Up Comedy,Romantic TV Shows,Musical",TV Show,10
+USR_080,39,F,India,Premium,2023-09-20,"Anthology,Horror Movies,Anime",Both,60
+USR_081,53,F,UK,Standard,2024-04-14,"Thriller,International TV Shows",TV Show,10
+USR_082,26,M,USA,Standard,2023-01-31,"Anime Features,Crime,Horror,Musical,Sci-Fi & Fantasy",Movie,90
+USR_083,59,F,Brazil,Premium,2023-02-26,"Disaster,Classic Movies",Both,55
+USR_084,52,M,India,Basic,2023-01-11,"TV Thrillers,Faith and Spirituality,Mystery,Western,Classic Movies",Movie,90
+USR_085,68,F,India,Basic,2022-12-13,"Movies,TV Sci-Fi & Fantasy,Musical,Lifestyle",Both,38
+USR_086,31,Other,Germany,Standard,2024-09-04,"Science & Nature TV,Horror,Horror Movies,Game Show / Competition,Suspense",TV Show,10
+USR_087,35,F,India,Basic,2023-12-11,"Entertainment,Anime,Faith and Spirituality,Animals & Nature,Talk Show and Variety",Both,45
+USR_088,30,Other,Brazil,Standard,2024-09-21,"Romance,Talk Show and Variety",TV Show,10
+USR_089,31,Other,USA,Basic,2024-05-25,"Action,Science & Nature TV",Movie,90
+USR_090,56,F,USA,Basic,2023-11-01,"Crime,TV Dramas,Superhero",TV Show,10
+USR_091,20,Other,Japan,Basic,2024-04-03,"Cult Movies,Korean TV Shows,Docuseries,Dramas,Military and War",TV Show,10
+USR_092,21,Other,Australia,Premium,2024-04-27,"Western,Movies",Both,49
+USR_093,32,M,Mexico,Premium,2024-02-18,"Music,Comedy",Both,59
+USR_094,58,Other,Australia,Standard,2023-09-08,"Lifestyle,Sports,Family,Series",TV Show,10
+USR_095,36,Other,USA,Standard,2023-11-24,"Action,Talk Show",Movie,90
+USR_096,54,Other,Canada,Basic,2023-08-23,"Adventure,and Culture,Talk Show",Movie,90
+USR_097,36,M,Japan,Premium,2023-05-22,"and Culture,Thriller,Superhero,Unscripted",Movie,90
+USR_098,29,M,Canada,Basic,2024-11-19,"Talk Show and Variety,Science Fiction,Sports,Movies,Anthology",Both,37
+USR_099,61,Other,Australia,Premium,2023-02-18,"Anime Series,Disaster,Comedies,Sports Movies,Classic Movies",Movie,90
+USR_100,68,Other,UK,Premium,2022-12-23,"Korean TV Shows,Musical",Movie,90
+USR_101,34,F,USA,Premium,2024-09-06,"Superhero,Classic Movies,Sports,Fantasy",Both,54
+USR_102,57,Other,Australia,Standard,2024-06-28,"Horror Movies,Adventure,Comedies,Crime TV Shows,Sci-Fi & Fantasy",Both,68
+USR_103,55,Other,Japan,Basic,2023-11-20,"TV Horror,Music Videos and Concerts,Sports Movies",TV Show,10
+USR_104,64,M,USA,Basic,2024-06-04,"Reality,Suspense,Lifestyle",Movie,90
+USR_105,18,Other,UK,Standard,2024-03-21,"Musical,Documentary,Survival,Buddy,Unscripted",Movie,90
+USR_106,38,M,Brazil,Premium,2023-03-26,"Police/Cop,Romantic TV Shows",Movie,90
+USR_107,69,Other,Mexico,Premium,2023-03-18,"Disaster,Classic Movies,International Movies,Game Show / Competition,Sports",Movie,90
+USR_108,67,Other,USA,Standard,2023-06-30,"Anime Features,Music Videos and Concerts,Romantic TV Shows",Both,70
+USR_109,30,Other,UK,Standard,2023-05-05,"Faith & Spirituality,Action-Adventure,Thrillers",Movie,90
+USR_110,36,Other,Germany,Standard,2023-08-11,"Romantic TV Shows,TV Horror,Thriller,TV Comedies",Both,37
+USR_111,68,Other,Japan,Standard,2023-03-25,"Korean TV Shows,TV Sci-Fi & Fantasy,Documentaries",TV Show,10
+USR_112,20,F,Brazil,Premium,2024-02-03,"Music,Anime Features",Movie,90
+USR_113,27,F,Japan,Standard,2023-09-11,"Arthouse,Faith and Spirituality,Horror Movies",TV Show,10
+USR_114,64,M,Japan,Basic,2024-02-26,"Music,Reality,Animals & Nature,Documentary,Variety",TV Show,10
+USR_115,30,Other,Australia,Standard,2023-11-25,"Variety,Classic Movies,Medical",TV Show,10
+USR_116,37,Other,Germany,Premium,2024-02-18,"Anthology,International,Anime Series",TV Show,10
+USR_117,65,M,Germany,Standard,2024-02-27,"Reality TV,Fitness",Both,64
+USR_118,64,F,Japan,Basic,2024-09-11,"Romantic Comedy,Stand-Up Comedy & Talk Shows",TV Show,10
+USR_119,54,M,Canada,Standard,2024-04-01,"Stand-Up Comedy & Talk Shows,TV Dramas",TV Show,10
+USR_120,30,Other,Australia,Premium,2024-03-11,"Classic Movies,Arts,Special Interest,Crime",Both,51
+USR_121,26,M,Australia,Basic,2024-01-01,"Family,Musical,TV Dramas,TV Mysteries,Soap Opera / Melodrama",TV Show,10
+USR_122,54,M,Brazil,Basic,2022-12-12,"Action,Talk Show and Variety,Reality TV",Both,66
+USR_123,68,Other,Germany,Basic,2023-12-23,"Romantic Movies,Sci-Fi & Fantasy,TV Sci-Fi & Fantasy,Entertainment",Movie,90
+USR_124,61,M,France,Premium,2023-10-06,"Anime Series,Disaster,Dance",TV Show,10
+USR_125,61,M,Australia,Basic,2023-01-18,"Survival,Medical",TV Show,10
+USR_126,42,Other,USA,Standard,2023-01-17,"Science Fiction,Korean TV Shows",Both,60
+USR_127,39,F,Mexico,Basic,2023-08-25,"Soap Opera / Melodrama,Fantasy,Dramas",Movie,90
+USR_128,68,F,USA,Basic,2024-05-21,"International,Animals & Nature,Kids' TV,Faith & Spirituality",Movie,90
+USR_129,26,F,Mexico,Premium,2024-02-06,"Kids' TV,Independent Movies",TV Show,10
+USR_130,62,F,USA,Premium,2022-12-11,"Action-Adventure,Parody,Independent Movies,Crime",Movie,90
+USR_131,56,Other,UK,Basic,2024-10-21,"TV Dramas,TV Action & Adventure,Spanish-Language TV Shows",TV Show,10
+USR_132,24,Other,USA,Premium,2023-11-16,"Teen TV Shows,Docuseries,Medical,Action-Adventure",TV Show,10
+USR_133,48,M,India,Basic,2023-08-12,"Unscripted,Teen TV Shows,TV Horror,Faith & Spirituality,Suspense",Movie,90
+USR_134,20,Other,India,Basic,2024-07-12,"Mystery,Coming of Age",Movie,90
+USR_135,54,M,India,Premium,2024-10-08,"Korean TV Shows,Music Videos and Concerts",Both,39
+USR_136,60,F,USA,Standard,2024-03-29,"Animation,Series,and Culture",TV Show,10
+USR_137,28,F,UK,Standard,2023-06-02,"Stand-Up Comedy & Talk Shows,Concert Film,Talk Show,Crime TV Shows",Both,61
+USR_138,46,Other,UK,Premium,2024-06-25,"Teen TV Shows,Documentary,Dramas,TV Dramas",Movie,90
+USR_139,57,Other,Brazil,Premium,2023-07-09,"Variety,Young Adult Audience,Talk Show",Both,65
+USR_140,53,F,Japan,Basic,2024-03-18,"Dance,TV Dramas,Action-Adventure",TV Show,10
+USR_141,49,F,India,Premium,2023-01-08,"Special Interest,Young Adult Audience,Military and War,Stand-Up Comedy",TV Show,10
+USR_142,63,Other,USA,Standard,2023-03-04,"Series,Arts,Comedy,International TV Shows",TV Show,10
+USR_143,36,Other,Germany,Premium,2024-07-20,"Romantic Movies,British TV Shows",Movie,90
+USR_144,57,F,Germany,Standard,2023-07-21,"Anime Features,Fitness,Game Show / Competition,Dramas,Young Adult Audience",TV Show,10
+USR_145,27,Other,Brazil,Premium,2023-12-11,"TV Sci-Fi & Fantasy,Animation,Survival",Both,64
+USR_146,36,M,Japan,Premium,2023-09-10,"Action & Adventure,Horror,Family,Disaster,Drama",Movie,90
+USR_147,38,F,USA,Standard,2024-03-08,"Young Adult Audience,Variety",Movie,90
+USR_148,27,F,Australia,Standard,2023-06-17,"Music,Action-Adventure,Special Interest,Anime",Both,42
+USR_149,39,M,Mexico,Standard,2024-08-31,"Parody,TV Comedies,Kids,Sci-Fi & Fantasy,Arthouse",TV Show,10
+USR_150,54,F,USA,Standard,2023-05-24,"Sports,Romantic Movies,Action-Adventure,Coming of Age,Thriller",Both,44
+USR_151,45,M,Germany,Premium,2023-06-08,"Animation,Arthouse",Movie,90
+USR_152,68,M,Mexico,Basic,2024-08-14,"Romantic Movies,Game Show / Competition,Comedies",Both,33
+USR_153,57,F,Germany,Premium,2024-04-28,"Documentaries,Survival,Spy/Espionage",TV Show,10
+USR_154,43,M,USA,Premium,2022-12-25,"Police/Cop,Documentaries,Horror Movies,Faith and Spirituality",Both,69
+USR_155,65,Other,France,Basic,2024-09-17,"Historical,Science Fiction,Music & Musicals,Teen TV Shows",TV Show,10
+USR_156,48,F,Japan,Standard,2024-10-14,"Crime TV Shows,Series,Concert Film,Talk Show and Variety",TV Show,10
+USR_157,27,F,Brazil,Standard,2024-02-12,"Arthouse,Faith & Spirituality",Both,51
+USR_158,53,M,UK,Premium,2023-04-09,"TV Thrillers,LGBTQ",TV Show,10
+USR_159,58,Other,India,Premium,2024-04-14,"Action & Adventure,Superhero",Movie,90
+USR_160,33,M,Germany,Premium,2023-07-26,"Romantic Comedy,Faith & Spirituality,Western,Anime Series,Historical",Movie,90
+USR_161,43,M,Canada,Premium,2024-06-26,"Western,Concert Film,Spy/Espionage",TV Show,10
+USR_162,34,F,Canada,Basic,2024-04-26,"Comedy,Reality TV,Anime Features,Lifestyle,Concert Film",TV Show,10
+USR_163,49,M,Japan,Basic,2023-02-16,"Children & Family Movies,TV Sci-Fi & Fantasy,Special Interest",TV Show,10
+USR_164,24,M,Brazil,Premium,2024-08-17,"TV Action & Adventure,TV Thrillers",TV Show,10
+USR_165,26,M,France,Basic,2024-05-20,"Anime,Entertainment,Fitness,Fantasy",Both,49
+USR_166,34,Other,India,Premium,2024-02-04,"Anime,Kids,Military and War,Music & Musicals",Movie,90
+USR_167,37,F,Mexico,Basic,2023-04-18,"and Culture,TV Thrillers,Crime,Movies,Disaster",Both,40
+USR_168,31,M,Japan,Basic,2023-06-01,"Game Show / Competition,Musical",Both,67
+USR_169,58,Other,USA,Premium,2023-12-25,"Music & Musicals,and Culture",Both,40
+USR_170,43,M,Brazil,Standard,2023-05-26,"Drama,Music & Musicals,Romance,Entertainment,Arts",TV Show,10
+USR_171,68,F,UK,Premium,2023-03-13,"Series,Sci-Fi & Fantasy,Police/Cop,International TV Shows",TV Show,10
+USR_172,42,M,Mexico,Standard,2023-09-08,"Romantic Movies,Young Adult Audience,Disaster,Action-Adventure,Soap Opera / Melodrama",Movie,90
+USR_173,54,F,Germany,Basic,2024-02-24,"TV Horror,Horror Movies,TV Dramas",TV Show,10
+USR_174,67,F,Japan,Basic,2024-01-20,"Superhero,Lifestyle,Unscripted",Movie,90
+USR_175,24,M,India,Premium,2023-06-21,"Thrillers,Buddy,Disaster",Both,41
+USR_176,33,M,Canada,Premium,2022-12-09,"International,Animation,Soap Opera / Melodrama,Series",Movie,90
+USR_177,38,Other,USA,Premium,2023-06-05,"Sports,Documentary,Mystery,TV Shows,Arthouse",Movie,90
+USR_178,67,F,France,Standard,2024-10-18,"Disaster,TV Shows,Family,Game Show / Competition",TV Show,10
+USR_179,35,M,UK,Basic,2023-05-07,"Spanish-Language TV Shows,Korean TV Shows",TV Show,10
+USR_180,36,F,USA,Basic,2024-10-21,"LGBTQ,Unscripted,Survival,Young Adult Audience,Talk Show",Both,42
+USR_181,33,M,Japan,Basic,2024-11-09,"Action & Adventure,Coming of Age,Anime Series",TV Show,10
+USR_182,50,Other,Japan,Premium,2024-06-09,"Anime Features,Romance",Movie,90
+USR_183,22,F,USA,Premium,2023-04-08,"Sports,Science & Nature TV,Young Adult Audience",Movie,90
+USR_184,67,Other,Japan,Premium,2024-05-22,"Action,Parody,International TV Shows",TV Show,10
+USR_185,33,F,Australia,Standard,2023-10-03,"Music & Musicals,Game Show / Competition,Children & Family Movies,and Culture,Action-Adventure",TV Show,10
+USR_186,31,F,Japan,Premium,2024-02-21,"Buddy,Animation",Both,35
+USR_187,54,M,Brazil,Basic,2023-10-10,"Action-Adventure,Lifestyle",Movie,90
+USR_188,18,M,France,Standard,2023-08-13,"Action-Adventure,Medical,Documentaries",Both,42
+USR_189,30,M,Canada,Standard,2024-08-28,"Cult Movies,Horror Movies,Reality TV,Anime Features,Comedy",Movie,90
+USR_190,66,M,Australia,Premium,2023-11-01,"Music & Musicals,Music,International,TV Sci-Fi & Fantasy,Talk Show and Variety",TV Show,10
+USR_191,44,M,Canada,Basic,2023-11-11,"TV Sci-Fi & Fantasy,Romantic TV Shows",Both,41
+USR_192,56,Other,Australia,Standard,2023-01-07,"Survival,Spanish-Language TV Shows",TV Show,10
+USR_193,41,M,India,Basic,2024-06-25,"Comedy,Historical,TV Sci-Fi & Fantasy,Young Adult Audience",Movie,90
+USR_194,29,M,India,Basic,2024-07-09,"Crime TV Shows,Documentaries,Cult Movies,Stand-Up Comedy",Movie,90
+USR_195,36,Other,Mexico,Basic,2023-05-24,"LGBTQ,Comedies,International TV Shows,Children & Family Movies",Both,60
+USR_196,55,M,India,Premium,2024-10-01,"Anime Series,Documentaries,Anime,Soap Opera / Melodrama,Anime Features",Both,69
+USR_197,55,F,Germany,Standard,2024-03-12,"Classic & Cult TV,Faith and Spirituality,Adventure,Superhero",TV Show,10
+USR_198,28,M,Japan,Basic,2023-05-16,"Documentaries,TV Dramas",TV Show,10
+USR_199,47,F,Brazil,Standard,2023-08-28,"Animals & Nature,Western,Fantasy",Movie,90
+USR_200,62,Other,USA,Premium,2024-05-12,"Sports,Horror,Romantic TV Shows,Buddy,TV Sci-Fi & Fantasy",Both,34
+USR_201,33,F,USA,Basic,2023-10-19,"Fantasy,Horror,Disaster,Suspense,Stand-Up Comedy",TV Show,10
+USR_202,62,M,France,Standard,2023-08-26,"Superhero,Romantic Comedy,Crime",TV Show,10
+USR_203,20,Other,UK,Basic,2023-05-24,"Action & Adventure,Soap Opera / Melodrama,Military and War,Documentary",TV Show,10
+USR_204,70,Other,UK,Premium,2023-04-05,"Young Adult Audience,Korean TV Shows,Lifestyle,Animation",Movie,90
+USR_205,64,Other,Japan,Basic,2022-12-07,"TV Dramas,Travel",TV Show,10
+USR_206,19,F,USA,Premium,2023-11-17,"Children & Family Movies,Thriller",Movie,90
+USR_207,70,M,UK,Premium,2023-01-30,"Reality,Kids' TV,Anime Features",Both,51
+USR_208,34,M,Australia,Premium,2023-07-10,"Coming of Age,Classic Movies,Crime,Action-Adventure",TV Show,10
+USR_209,61,F,Canada,Standard,2024-08-13,"Documentaries,Adventure,Family",Both,69
+USR_210,25,M,Brazil,Basic,2024-09-09,"Disaster,Stand-Up Comedy & Talk Shows,Game Show / Competition,Animals & Nature",Movie,90
+USR_211,49,M,USA,Premium,2024-03-22,"Documentaries,Faith & Spirituality,Variety",Movie,90
+USR_212,65,Other,Brazil,Basic,2023-11-19,"Cult Movies,Music Videos and Concerts,Family,Music & Musicals",Movie,90
+USR_213,67,Other,India,Premium,2023-07-21,"Documentary,Travel,Thrillers",TV Show,10
+USR_214,22,Other,UK,Basic,2024-09-20,"Cult Movies,Documentaries,International TV Shows,Thriller",TV Show,10
+USR_215,24,Other,UK,Premium,2024-07-08,"International,Variety",Both,64
+USR_216,54,Other,USA,Premium,2024-02-21,"Series,TV Action & Adventure,Cult Movies,TV Comedies,Soap Opera / Melodrama",TV Show,10
+USR_217,27,F,India,Premium,2023-07-02,"Cult Movies,Kids,Anime",TV Show,10
+USR_218,55,Other,Mexico,Standard,2024-09-22,"Suspense,Musical,Fantasy,Family",TV Show,10
+USR_219,28,Other,Australia,Standard,2023-01-06,"Animals & Nature,LGBTQ,Docuseries",Both,56
+USR_220,53,Other,UK,Standard,2023-08-07,"Thriller,Romance,Cult Movies",Both,50
+USR_221,30,Other,Japan,Standard,2023-09-11,"Suspense,Survival,Biographical,Anime Features,International TV Shows",Movie,90
+USR_222,63,Other,Mexico,Standard,2024-06-26,"TV Comedies,Drama,Lifestyle",Both,63
+USR_223,34,M,France,Premium,2024-11-16,"Kids,Faith & Spirituality,Fantasy,Classic & Cult TV",TV Show,10
+USR_224,51,F,UK,Basic,2023-09-27,"Variety,Music,Travel,TV Thrillers,Romance",TV Show,10
+USR_225,68,F,Germany,Premium,2023-12-24,"Comedy,Coming of Age,Drama,Documentary,Arts",TV Show,10
+USR_226,52,Other,Germany,Standard,2023-05-25,"TV Thrillers,TV Sci-Fi & Fantasy,TV Dramas,Sci-Fi & Fantasy",TV Show,10
+USR_227,20,Other,Canada,Basic,2023-01-16,"Animals & Nature,Anime",Both,37
+USR_228,18,M,USA,Premium,2023-07-18,"TV Thrillers,Docuseries,Stand-Up Comedy & Talk Shows,Mystery",Movie,90
+USR_229,32,M,India,Basic,2022-12-02,"Musical,International Movies,Music,Entertainment,Sci-Fi & Fantasy",TV Show,10
+USR_230,65,M,Germany,Basic,2024-01-10,"Faith & Spirituality,Travel",Both,42
+USR_231,47,Other,Japan,Basic,2024-04-15,"Western,Biographical,Buddy,Talk Show",Both,69
+USR_232,69,Other,Japan,Standard,2024-11-18,"Anime,Reality TV,Sci-Fi & Fantasy,Music & Musicals,Sports Movies",TV Show,10
+USR_233,26,F,USA,Standard,2023-03-31,"Faith and Spirituality,Action & Adventure,Animation",Both,63
+USR_234,58,F,Mexico,Premium,2024-07-17,"Dramas,Classic & Cult TV,Stand-Up Comedy,Music & Musicals,Animation",TV Show,10
+USR_235,33,F,Canada,Premium,2024-05-05,"Adventure,Arthouse,Romantic Comedy",Movie,90
+USR_236,53,F,Brazil,Standard,2023-04-03,"Documentary,Fitness,Action-Adventure,Dance",Both,60
+USR_237,63,Other,USA,Premium,2023-10-18,"Science Fiction,Classic & Cult TV,Western,TV Sci-Fi & Fantasy,Young Adult Audience",Both,30
+USR_238,42,F,Australia,Premium,2024-02-17,"Game Show / Competition,Survival,Sports Movies",Both,55
+USR_239,64,F,Japan,Standard,2023-09-12,"Musical,Survival,Science & Nature TV,Music",Movie,90
+USR_240,48,M,Japan,Basic,2022-12-11,"Cult Movies,Stand-Up Comedy",TV Show,10
+USR_241,38,M,Canada,Standard,2024-09-16,"International,Documentary",Both,45
+USR_242,47,F,Australia,Standard,2024-11-01,"Medical,Talk Show and Variety,Docuseries,TV Shows",Both,49
+USR_243,36,M,Germany,Standard,2023-03-23,"Dance,Survival,Science Fiction",TV Show,10
+USR_244,18,M,Australia,Standard,2023-12-17,"TV Horror,Spy/Espionage,Romantic Comedy,Classic & Cult TV",Movie,90
+USR_245,23,F,India,Standard,2023-03-25,"Animals & Nature,Anime,Sci-Fi & Fantasy,Classic Movies",Both,68
+USR_246,26,M,India,Basic,2024-02-18,"Mystery,Children & Family Movies,Historical,Teen TV Shows,Buddy",Movie,90
+USR_247,25,F,India,Basic,2023-04-12,"Talk Show,Suspense,Parody,Classic Movies",Both,65
+USR_248,37,M,Brazil,Standard,2024-10-20,"Science Fiction,Comedies,Family,Classic Movies,Korean TV Shows",Movie,90
+USR_249,37,F,Brazil,Premium,2024-10-19,"Spanish-Language TV Shows,Korean TV Shows,Unscripted",Movie,90
+USR_250,38,Other,India,Basic,2024-06-21,"Romantic Movies,Action & Adventure,Talk Show",Both,68
+USR_251,34,M,UK,Basic,2024-02-13,"and Culture,Kids,Animals & Nature,Superhero,Crime",TV Show,10
+USR_252,25,F,India,Premium,2024-05-24,"Stand-Up Comedy & Talk Shows,Thrillers,Anime Series,Talk Show",TV Show,10
+USR_253,39,M,France,Standard,2023-03-23,"International TV Shows,Horror,Cult Movies",TV Show,10
+USR_254,45,F,Canada,Premium,2023-09-02,"Arthouse,International Movies,Musical",Movie,90
+USR_255,30,F,UK,Basic,2022-12-28,"Faith & Spirituality,Buddy,Music & Musicals,Sports Movies",Both,39
+USR_256,41,Other,Canada,Premium,2023-05-28,"Sci-Fi & Fantasy,Family,Music & Musicals,Game Show / Competition",Both,43
+USR_257,29,F,Brazil,Premium,2023-10-02,"Young Adult Audience,Western",Movie,90
+USR_258,68,F,Canada,Standard,2024-07-28,"Docuseries,Drama,TV Mysteries,LGBTQ,Dance",TV Show,10
+USR_259,63,F,India,Premium,2024-10-18,"Classic & Cult TV,Reality TV,Military and War,Unscripted",TV Show,10
+USR_260,44,M,Germany,Standard,2023-09-13,"Faith & Spirituality,Talk Show and Variety,Docuseries,Police/Cop,Comedies",Both,67
+USR_261,66,M,France,Standard,2024-09-04,"Movies,LGBTQ Movies,Soap Opera / Melodrama,Crime",Both,41
+USR_262,19,Other,Mexico,Standard,2023-11-02,"Thriller,Anthology,Drama",Movie,90
+USR_263,70,M,UK,Premium,2023-12-16,"and Culture,Suspense,TV Shows,Reality TV,Crime TV Shows",TV Show,10
+USR_264,70,Other,Japan,Basic,2023-10-07,"Coming of Age,Spanish-Language TV Shows,Arthouse,Sci-Fi & Fantasy",Both,42
+USR_265,21,F,Canada,Standard,2023-02-23,"Documentaries,Parody,Action",Movie,90
+USR_266,61,F,Brazil,Premium,2023-09-13,"Independent Movies,Historical,Animation,Documentary",TV Show,10
+USR_267,28,F,Brazil,Standard,2023-11-13,"TV Action & Adventure,Crime,Independent Movies,Science Fiction",TV Show,10
+USR_268,41,Other,Australia,Basic,2022-11-30,"Romance,Sci-Fi & Fantasy,Classic Movies",Both,49
+USR_269,47,M,Japan,Basic,2024-11-08,"Animals & Nature,Travel,Unscripted",Movie,90
+USR_270,43,F,Brazil,Standard,2023-11-17,"Fantasy,TV Thrillers,British TV Shows,Faith & Spirituality,Sports",Both,58
+USR_271,45,Other,Germany,Basic,2023-07-27,"Faith & Spirituality,TV Mysteries,TV Action & Adventure,Historical",Both,52
+USR_272,32,Other,Australia,Basic,2023-11-09,"Special Interest,Anime Series,LGBTQ,Children & Family Movies",Both,65
+USR_273,61,F,Brazil,Basic,2023-02-08,"Romantic Comedy,Reality TV",Both,58
+USR_274,27,Other,USA,Standard,2024-03-31,"Sports Movies,Music,Korean TV Shows,Superhero,Military and War",Movie,90
+USR_275,38,Other,USA,Basic,2022-12-23,"Drama,Spanish-Language TV Shows",Movie,90
+USR_276,43,M,UK,Standard,2023-03-31,"Reality,Sci-Fi & Fantasy,Talk Show and Variety,TV Sci-Fi & Fantasy",Both,52
+USR_277,58,F,France,Premium,2023-04-07,"Arts,Action-Adventure",TV Show,10
+USR_278,28,M,Germany,Basic,2023-09-04,"Arts,Reality",Both,54
+USR_279,46,F,Australia,Standard,2024-10-16,"Travel,TV Thrillers,Crime",Movie,90
+USR_280,35,M,France,Premium,2024-10-24,"Romance,LGBTQ",Movie,90
+USR_281,51,F,Germany,Basic,2024-04-03,"Talk Show,Science & Nature TV,Game Show / Competition,International Movies,Arts",TV Show,10
+USR_282,56,Other,India,Basic,2024-08-12,"Music,LGBTQ Movies,Biographical,Classic & Cult TV",Both,34
+USR_283,24,Other,Mexico,Premium,2023-09-06,"Crime TV Shows,Science Fiction,TV Dramas,Docuseries",TV Show,10
+USR_284,60,M,Germany,Premium,2024-01-29,"International TV Shows,TV Shows",TV Show,10
+USR_285,32,Other,USA,Standard,2024-05-09,"Reality TV,TV Action & Adventure,Science & Nature TV",TV Show,10
+USR_286,46,M,Brazil,Basic,2023-04-21,"Musical,Dance,Romantic Movies,TV Mysteries,TV Dramas",TV Show,10
+USR_287,58,F,France,Basic,2023-08-01,"Superhero,Dramas,Unscripted",Movie,90
+USR_288,38,M,UK,Standard,2023-07-09,"TV Mysteries,Teen TV Shows,Action & Adventure,Classic & Cult TV",TV Show,10
+USR_289,69,Other,Australia,Basic,2023-02-12,"Korean TV Shows,Police/Cop",Both,65
+USR_290,26,M,Canada,Basic,2024-03-11,"Survival,British TV Shows,Superhero,Classic & Cult TV",TV Show,10
+USR_291,60,Other,Japan,Premium,2023-08-23,"Crime TV Shows,TV Comedies,Coming of Age,Documentary",Both,43
+USR_292,19,Other,Japan,Premium,2023-04-14,"Science Fiction,Dramas,Music Videos and Concerts",Both,64
+USR_293,40,M,France,Standard,2023-11-20,"Superhero,and Culture,Disaster",TV Show,10
+USR_294,27,F,UK,Premium,2023-06-21,"International Movies,Stand-Up Comedy,Parody,Cult Movies",Both,66
+USR_295,25,Other,Brazil,Standard,2024-03-16,"Science & Nature TV,Action-Adventure,Korean TV Shows,Anime Features,Action & Adventure",Both,66
+USR_296,64,F,Japan,Basic,2023-12-15,"Animals & Nature,Independent Movies,Game Show / Competition,Variety",Both,68
+USR_297,55,M,USA,Standard,2023-06-25,"Animation,Police/Cop,Crime TV Shows,Arthouse,Action",Both,51
+USR_298,60,M,UK,Standard,2023-09-26,"Adventure,Romantic Movies",TV Show,10
+USR_299,40,F,Mexico,Premium,2023-12-25,"Concert Film,TV Dramas",Both,66
+USR_300,63,F,Brazil,Premium,2024-09-26,"Movies,Classic & Cult TV,Unscripted,Cult Movies",Both,48
+USR_301,38,Other,USA,Premium,2024-11-20,"Travel,Special Interest,Mystery",TV Show,10
+USR_302,66,M,Australia,Basic,2024-08-25,"Comedies,Lifestyle,Comedy,Music & Musicals",Both,67
+USR_303,32,M,Mexico,Basic,2023-03-29,"Thrillers,Animation,Medical",TV Show,10
+USR_304,48,M,Japan,Standard,2024-08-28,"Survival,Romantic Movies",TV Show,10
+USR_305,60,F,Japan,Basic,2023-08-24,"TV Action & Adventure,Stand-Up Comedy & Talk Shows,Soap Opera / Melodrama,Buddy",Movie,90
+USR_306,36,M,UK,Premium,2024-09-01,"TV Shows,Western,Kids,Series",TV Show,10
+USR_307,55,F,Mexico,Premium,2024-08-11,"Coming of Age,Independent Movies,British TV Shows,Romance",Both,68
+USR_308,56,Other,Germany,Premium,2023-05-05,"Kids' TV,Thriller,Family,Police/Cop,Stand-Up Comedy & Talk Shows",TV Show,10
+USR_309,33,Other,India,Premium,2024-05-03,"Suspense,Crime",Movie,90
+USR_310,63,M,USA,Premium,2023-10-11,"International,Classic Movies,Horror",Both,36
+USR_311,48,Other,Germany,Premium,2024-03-14,"Military and War,Action-Adventure,Kids' TV,Romance",TV Show,10
+USR_312,34,M,Germany,Premium,2024-02-09,"Romantic TV Shows,TV Horror,Young Adult Audience,Anime,Science & Nature TV",Both,60
+USR_313,18,M,France,Basic,2023-09-18,"Faith and Spirituality,Spanish-Language TV Shows,Suspense,Military and War",Both,50
+USR_314,48,Other,Australia,Premium,2023-12-17,"Sci-Fi & Fantasy,Stand-Up Comedy & Talk Shows,Drama",Both,32
+USR_315,47,F,Japan,Basic,2023-12-30,"Series,Arts,Independent Movies,Anime,Comedies",TV Show,10
+USR_316,66,F,Germany,Standard,2023-11-12,"Medical,Superhero",TV Show,10
+USR_317,44,M,Australia,Basic,2024-04-17,"Superhero,Arts,Drama",Movie,90
+USR_318,37,M,Germany,Basic,2024-04-09,"Fitness,Romantic TV Shows,Crime",TV Show,10
+USR_319,64,Other,Brazil,Premium,2023-04-20,"Anime,Thrillers,Lifestyle,Kids' TV",Both,32
+USR_320,26,M,Australia,Basic,2024-05-06,"Korean TV Shows,Children & Family Movies,Suspense,Thrillers,Anime Features",Movie,90
+USR_321,39,F,Brazil,Basic,2024-11-16,"Music,Lifestyle,TV Dramas,Superhero,TV Comedies",Both,32
+USR_322,43,M,Australia,Premium,2023-04-23,"Music,Superhero,Parody",TV Show,10
+USR_323,20,F,France,Premium,2023-04-16,"TV Dramas,Music Videos and Concerts,Docuseries,Special Interest",TV Show,10
+USR_324,31,Other,Australia,Standard,2023-08-04,"Western,Animation,TV Action & Adventure",TV Show,10
+USR_325,19,M,UK,Standard,2023-03-05,"TV Dramas,Parody,Classic & Cult TV,Adventure",Movie,90
+USR_326,67,Other,France,Standard,2024-10-16,"Action,Reality,Police/Cop,Music Videos and Concerts,Animation",Movie,90
+USR_327,21,Other,India,Basic,2023-09-22,"Young Adult Audience,Biographical",Movie,90
+USR_328,49,M,Mexico,Premium,2023-06-02,"Parody,Lifestyle,Survival,TV Dramas",Movie,90
+USR_329,68,F,Brazil,Basic,2023-08-29,"TV Shows,Classic Movies,Action",Both,56
+USR_330,65,M,Brazil,Standard,2023-02-13,"Comedy,Coming of Age,Young Adult Audience,Action",Both,33
+USR_331,42,Other,Japan,Standard,2024-03-23,"Crime,Dramas,Classic Movies",Both,35
+USR_332,68,M,Canada,Standard,2023-11-15,"Anime Features,Independent Movies",Both,32
+USR_333,59,Other,India,Premium,2024-09-18,"Anime,Biographical,Medical",Movie,90
+USR_334,55,Other,Germany,Standard,2023-03-20,"Survival,Lifestyle",Both,54
+USR_335,43,M,Australia,Standard,2024-05-23,"Military and War,TV Mysteries,Teen TV Shows",Movie,90
+USR_336,55,F,Australia,Basic,2024-02-21,"Reality TV,TV Comedies,TV Thrillers,Game Show / Competition,Variety",TV Show,10
+USR_337,67,Other,France,Basic,2024-06-30,"Musical,Disaster,Teen TV Shows",Movie,90
+USR_338,55,Other,Mexico,Basic,2024-08-31,"Horror,Concert Film,Action-Adventure,Survival",Both,68
+USR_339,66,M,Australia,Standard,2024-02-10,"Animals & Nature,Anime,Survival,Special Interest",Both,34
+USR_340,56,Other,USA,Basic,2024-07-29,"International Movies,TV Horror,Lifestyle,Mystery,TV Action & Adventure",Movie,90
+USR_341,51,Other,India,Basic,2023-02-18,"Spanish-Language TV Shows,Dramas,Family",Movie,90
+USR_342,46,F,India,Premium,2024-07-05,"TV Sci-Fi & Fantasy,Science Fiction,Game Show / Competition,Action,Parody",TV Show,10
+USR_343,37,F,UK,Premium,2023-07-11,"Western,Adventure,Lifestyle",Movie,90
+USR_344,27,M,India,Premium,2023-12-25,"LGBTQ Movies,Arthouse,Crime,Romantic Comedy",Movie,90
+USR_345,49,M,Japan,Basic,2023-12-05,"Cult Movies,Parody",Movie,90
+USR_346,56,F,USA,Standard,2023-01-10,"Anime Features,International TV Shows",Both,63
+USR_347,58,F,UK,Premium,2024-09-23,"British TV Shows,International,Documentaries",Both,62
+USR_348,63,M,India,Premium,2023-01-23,"Coming of Age,Faith & Spirituality,Classic Movies",Both,60
+USR_349,48,M,Germany,Premium,2024-05-31,"Anthology,Game Show / Competition,Animation,Mystery",Both,53
+USR_350,68,M,Canada,Standard,2024-06-16,"TV Shows,and Culture,Series,Biographical,Romantic Comedy",TV Show,10
+USR_351,35,M,Japan,Premium,2023-09-17,"Reality,TV Sci-Fi & Fantasy,Stand-Up Comedy & Talk Shows,Crime TV Shows",Both,56
+USR_352,62,Other,Australia,Basic,2024-02-25,"Talk Show,Superhero,Military and War,Children & Family Movies,Science Fiction",Both,58
+USR_353,68,M,India,Premium,2023-09-11,"Faith & Spirituality,Musical,International",TV Show,10
+USR_354,36,M,Mexico,Premium,2023-04-11,"Music,Teen TV Shows",Movie,90
+USR_355,63,F,Japan,Standard,2023-03-09,"Movies,Animals & Nature,Musical,Science Fiction",Both,33
+USR_356,25,F,USA,Standard,2023-06-23,"Sci-Fi & Fantasy,Anime Features",Both,62
+USR_357,65,M,UK,Premium,2024-08-02,"Survival,Stand-Up Comedy,Lifestyle,International Movies,Talk Show",Movie,90
+USR_358,70,M,Germany,Basic,2023-08-27,"Kids,LGBTQ Movies,Entertainment,Dramas,Unscripted",Both,30
+USR_359,55,F,UK,Premium,2023-10-11,"Game Show / Competition,Romantic Movies,Sci-Fi & Fantasy,TV Sci-Fi & Fantasy,Independent Movies",TV Show,10
+USR_360,24,F,UK,Basic,2023-12-10,"Horror,Comedy",TV Show,10
+USR_361,69,Other,France,Basic,2024-08-23,"Medical,Crime TV Shows,Game Show / Competition,Teen TV Shows",Movie,90
+USR_362,24,Other,UK,Basic,2024-01-17,"Music & Musicals,Romantic Comedy,Family,Travel",Movie,90
+USR_363,21,F,Canada,Premium,2024-04-10,"Crime TV Shows,Sports Movies,Faith & Spirituality,TV Dramas,Science & Nature TV",Both,47
+USR_364,52,Other,Germany,Standard,2024-05-31,"Children & Family Movies,Suspense,Comedy,Anthology",TV Show,10
+USR_365,65,Other,UK,Basic,2024-07-22,"Animals & Nature,TV Comedies,British TV Shows,Entertainment",Both,41
+USR_366,21,M,France,Standard,2023-04-22,"Thrillers,Classic Movies,Concert Film,Science & Nature TV",Both,51
+USR_367,40,Other,USA,Standard,2024-09-21,"Music,Korean TV Shows",TV Show,10
+USR_368,35,Other,Australia,Premium,2024-07-12,"Romantic Comedy,Action,Series,TV Sci-Fi & Fantasy,Horror Movies",Both,59
+USR_369,37,M,Japan,Basic,2022-12-20,"Romantic Movies,TV Sci-Fi & Fantasy,Western,Superhero,Romantic TV Shows",Movie,90
+USR_370,62,M,France,Basic,2024-09-23,"Action & Adventure,Classic & Cult TV,Spy/Espionage,LGBTQ,Fantasy",TV Show,10
+USR_371,55,Other,Canada,Premium,2023-04-22,"Variety,Crime,Reality,Survival",Both,60
+USR_372,45,F,India,Premium,2023-02-09,"Documentary,Adventure,British TV Shows,Young Adult Audience,Classic & Cult TV",TV Show,10
+USR_373,26,F,Germany,Basic,2023-02-07,"Animals & Nature,Medical,Classic & Cult TV,Thrillers",Movie,90
+USR_374,42,M,Australia,Standard,2024-07-17,"Musical,Cult Movies,Parody,Game Show / Competition",Movie,90
+USR_375,45,M,Australia,Standard,2023-05-11,"Teen TV Shows,Travel,International",TV Show,10
+USR_376,39,Other,Canada,Standard,2023-01-19,"International,Dramas",Both,69
+USR_377,51,F,Brazil,Premium,2023-08-18,"Spanish-Language TV Shows,Action",TV Show,10
+USR_378,40,M,Canada,Basic,2022-12-10,"Spy/Espionage,Faith and Spirituality,Drama,Classic Movies",Movie,90
+USR_379,37,Other,France,Standard,2023-01-23,"Science Fiction,TV Dramas,Action & Adventure,Biographical",TV Show,10
+USR_380,47,Other,USA,Premium,2023-10-17,"Soap Opera / Melodrama,Kids' TV,Stand-Up Comedy & Talk Shows",TV Show,10
+USR_381,18,F,Australia,Premium,2023-04-26,"Comedy,Military and War,Music,Drama,International Movies",TV Show,10
+USR_382,26,Other,Japan,Basic,2023-08-24,"Spanish-Language TV Shows,Science & Nature TV,Sci-Fi & Fantasy,Music & Musicals",Both,42
+USR_383,39,F,Germany,Premium,2023-09-19,"Arts,Drama,Classic & Cult TV,Sports Movies",TV Show,10
+USR_384,24,M,India,Standard,2023-08-12,"Spy/Espionage,Korean TV Shows,Unscripted,Stand-Up Comedy,Teen TV Shows",Movie,90
+USR_385,38,F,India,Premium,2023-07-15,"Kids,Anime,Entertainment",Movie,90
+USR_386,32,M,India,Standard,2024-10-01,"LGBTQ,Western",TV Show,10
+USR_387,54,M,USA,Standard,2023-09-06,"Horror Movies,Horror,Stand-Up Comedy,Medical,International",Both,60
+USR_388,37,F,UK,Standard,2023-08-25,"Documentary,Travel,Action & Adventure",TV Show,10
+USR_389,29,F,Canada,Standard,2024-06-25,"Coming of Age,Family,Special Interest,Reality TV",TV Show,10
+USR_390,19,M,USA,Premium,2024-07-05,"Western,Survival",Movie,90
+USR_391,41,M,Japan,Standard,2022-12-25,"Talk Show and Variety,Kids' TV,Dance",TV Show,10
+USR_392,33,M,Japan,Basic,2023-12-15,"Coming of Age,International TV Shows,Comedy,Spy/Espionage",Both,30
+USR_393,19,Other,Australia,Standard,2024-03-04,"Classic & Cult TV,and Culture,Kids",Both,63
+USR_394,63,Other,Mexico,Basic,2023-05-12,"and Culture,TV Horror",Both,70
+USR_395,37,M,Mexico,Basic,2024-03-09,"Teen TV Shows,Concert Film,Children & Family Movies",TV Show,10
+USR_396,20,F,Australia,Basic,2024-08-06,"TV Sci-Fi & Fantasy,Teen TV Shows,Talk Show and Variety,International Movies,TV Horror",Both,38
+USR_397,48,F,UK,Standard,2023-12-17,"International Movies,Buddy,Drama,Reality,Talk Show and Variety",TV Show,10
+USR_398,53,Other,India,Premium,2024-11-03,"Science & Nature TV,Kids,Action,British TV Shows",Movie,90
+USR_399,56,M,France,Standard,2024-07-24,"TV Thrillers,Stand-Up Comedy,Docuseries",TV Show,10
+USR_400,26,F,UK,Premium,2023-04-04,"Animals & Nature,LGBTQ Movies,Romance,Stand-Up Comedy",Movie,90
+USR_401,38,F,Mexico,Basic,2023-01-04,"Children & Family Movies,TV Thrillers",TV Show,10
+USR_402,69,Other,Mexico,Basic,2024-08-22,"Movies,Action & Adventure,Music",Movie,90
+USR_403,58,F,UK,Basic,2024-05-13,"Kids' TV,Concert Film",TV Show,10
+USR_404,28,F,UK,Standard,2023-11-02,"Romantic Movies,TV Comedies,Independent Movies",TV Show,10
+USR_405,22,M,India,Standard,2024-02-12,"Historical,Arts,Comedies",TV Show,10
+USR_406,60,Other,India,Basic,2024-01-01,"Classic & Cult TV,Cult Movies,Special Interest",TV Show,10
+USR_407,60,F,India,Premium,2024-03-09,"Special Interest,Stand-Up Comedy & Talk Shows,Music Videos and Concerts",Both,59
+USR_408,41,F,Australia,Standard,2023-08-13,"TV Thrillers,LGBTQ,Parody,Crime,Thriller",TV Show,10
+USR_409,48,M,Australia,Premium,2023-08-10,"Music Videos and Concerts,Sports,Dramas",Movie,90
+USR_410,56,Other,UK,Basic,2023-01-09,"Classic & Cult TV,Animals & Nature,Military and War",TV Show,10
+USR_411,38,M,USA,Premium,2024-10-28,"Survival,TV Comedies,Musical,Kids' TV",TV Show,10
+USR_412,29,Other,USA,Premium,2023-11-28,"LGBTQ,Dramas,Romantic Comedy",Movie,90
+USR_413,48,Other,Brazil,Premium,2023-08-23,"Family,Animals & Nature,Kids,Dance,Lifestyle",Both,62
+USR_414,62,Other,UK,Premium,2023-07-31,"Crime TV Shows,Soap Opera / Melodrama",Both,44
+USR_415,56,Other,Japan,Basic,2023-08-10,"Sports Movies,Talk Show and Variety,Romantic Movies,Action & Adventure",TV Show,10
+USR_416,63,F,France,Premium,2024-03-26,"Historical,Classic & Cult TV,Horror,Faith & Spirituality",TV Show,10
+USR_417,69,M,Canada,Premium,2024-01-29,"Action-Adventure,British TV Shows,Reality TV,Animation",TV Show,10
+USR_418,25,F,USA,Standard,2023-07-20,"Police/Cop,Sports,Anime Features,Suspense,Teen TV Shows",Movie,90
+USR_419,54,F,Canada,Standard,2023-09-15,"Animation,Military and War",TV Show,10
+USR_420,37,M,France,Basic,2022-12-30,"Travel,Music Videos and Concerts,Stand-Up Comedy,Crime,Fitness",Movie,90
+USR_421,31,Other,Japan,Basic,2022-12-11,"Crime TV Shows,Disaster,Docuseries,TV Sci-Fi & Fantasy",Movie,90
+USR_422,20,M,USA,Basic,2023-01-19,"Music Videos and Concerts,Game Show / Competition,International Movies",Both,67
+USR_423,60,M,UK,Basic,2023-06-05,"Faith and Spirituality,Stand-Up Comedy,Buddy,Docuseries",TV Show,10
+USR_424,23,M,USA,Basic,2024-03-06,"Documentary,Reality TV",Both,35
+USR_425,33,F,Canada,Premium,2023-12-01,"Military and War,Documentary,Anime Features",Both,46
+USR_426,43,M,France,Basic,2023-05-01,"Sports Movies,Spanish-Language TV Shows,Dramas,Parody,TV Dramas",Both,63
+USR_427,26,Other,Germany,Standard,2023-02-12,"Comedy,Stand-Up Comedy,Action & Adventure",Both,68
+USR_428,42,F,USA,Basic,2023-04-30,"Biographical,Music & Musicals,Police/Cop,Adventure",TV Show,10
+USR_429,51,Other,Brazil,Premium,2024-04-08,"Teen TV Shows,Survival,and Culture",TV Show,10
+USR_430,62,F,Germany,Basic,2023-12-15,"Romantic TV Shows,Suspense",Both,63
+USR_431,42,F,Germany,Basic,2024-11-17,"Disaster,TV Comedies,Comedy,Entertainment,Music Videos and Concerts",Movie,90
+USR_432,61,F,Canada,Premium,2023-01-27,"Arts,Teen TV Shows,British TV Shows,International TV Shows,Faith and Spirituality",TV Show,10
+USR_433,64,M,Japan,Premium,2024-06-13,"Music,Travel,Comedy,Thrillers",Movie,90
+USR_434,65,Other,Germany,Basic,2024-09-26,"Teen TV Shows,Soap Opera / Melodrama,Korean TV Shows,Animals & Nature,Action & Adventure",Both,65
+USR_435,33,M,Mexico,Premium,2024-05-22,"Biographical,Sci-Fi & Fantasy,Fantasy",TV Show,10
+USR_436,49,F,Brazil,Standard,2023-02-21,"Action & Adventure,Drama,Romantic TV Shows",TV Show,10
+USR_437,21,Other,Canada,Standard,2024-08-26,"International TV Shows,Fitness,Animals & Nature,Documentary",Both,54
+USR_438,66,Other,UK,Basic,2024-01-06,"Dance,Horror,Docuseries",TV Show,10
+USR_439,64,F,Brazil,Standard,2024-04-16,"Biographical,Fantasy",Movie,90
+USR_440,35,M,USA,Basic,2023-02-04,"Dramas,Police/Cop,Science Fiction,Family,Romance",Both,35
+USR_441,37,Other,UK,Standard,2024-05-01,"Young Adult Audience,Travel,Teen TV Shows,Children & Family Movies,Survival",TV Show,10
+USR_442,30,Other,France,Basic,2023-07-25,"Music,Drama,Science & Nature TV",Both,43
+USR_443,43,Other,UK,Standard,2024-02-10,"Entertainment,Stand-Up Comedy & Talk Shows,Dance,Romantic Movies",TV Show,10
+USR_444,32,Other,Mexico,Standard,2024-03-13,"Korean TV Shows,Entertainment,Thriller,Military and War",Both,44
+USR_445,62,Other,Mexico,Premium,2024-01-03,"Classic Movies,Parody,Music",TV Show,10
+USR_446,25,F,UK,Basic,2024-02-19,"Anime Series,Sports Movies,Romantic Comedy,Musical",TV Show,10
+USR_447,44,Other,Brazil,Premium,2024-01-29,"Lifestyle,Musical,Animation,Documentaries",Movie,90
+USR_448,70,Other,Germany,Standard,2024-09-30,"Arts,Parody,Family",Movie,90
+USR_449,23,F,USA,Basic,2023-09-06,"Independent Movies,Docuseries,Musical,Kids,Adventure",Both,65
+USR_450,33,Other,Canada,Premium,2023-06-14,"Variety,TV Comedies,Drama",TV Show,10
+USR_451,56,F,USA,Premium,2024-08-16,"Police/Cop,Independent Movies,Romantic Comedy",Movie,90
+USR_452,52,F,Canada,Premium,2023-08-15,"Dramas,Mystery",TV Show,10
+USR_453,28,Other,Japan,Basic,2023-04-15,"Faith & Spirituality,Fitness,International TV Shows,TV Dramas,Animals & Nature",Movie,90
+USR_454,38,M,India,Premium,2024-08-22,"Sci-Fi & Fantasy,Variety,LGBTQ,Horror",Movie,90
+USR_455,21,M,Canada,Basic,2023-08-08,"Kids,and Culture,Arts,Dramas,Stand-Up Comedy",Movie,90
+USR_456,56,Other,Canada,Basic,2023-05-06,"Anime,TV Horror",Both,69
+USR_457,55,M,UK,Premium,2024-04-09,"Arts,Musical",Movie,90
+USR_458,49,F,UK,Premium,2023-10-13,"Teen TV Shows,International,Musical,Crime,Kids",Movie,90
+USR_459,62,F,Mexico,Basic,2023-11-22,"Kids' TV,Family,Horror,Western",Movie,90
+USR_460,57,Other,Australia,Basic,2023-04-19,"TV Mysteries,Arthouse,Musical,TV Thrillers,Documentaries",Both,65
+USR_461,64,Other,Canada,Basic,2023-11-28,"TV Mysteries,TV Horror",TV Show,10
+USR_462,54,F,Canada,Premium,2022-12-24,"Crime TV Shows,Classic & Cult TV,Anime Series,LGBTQ Movies,Entertainment",Both,49
+USR_463,59,M,UK,Basic,2024-11-05,"Musical,TV Mysteries,Drama",Movie,90
+USR_464,61,Other,India,Premium,2023-08-25,"Animals & Nature,Documentary,Arthouse,Thrillers,Thriller",Both,32
+USR_465,60,Other,Japan,Premium,2024-01-26,"Kids' TV,Documentaries,Drama",Both,42
+USR_466,21,F,Japan,Basic,2023-03-07,"Drama,Suspense,Disaster,Anthology,Variety",TV Show,10
+USR_467,38,Other,UK,Basic,2024-10-11,"TV Shows,Thriller,Travel,Young Adult Audience,Sci-Fi & Fantasy",Movie,90
+USR_468,62,M,Japan,Premium,2024-09-19,"Musical,Drama,Teen TV Shows,Action & Adventure,Documentary",Movie,90
+USR_469,22,M,USA,Premium,2024-11-01,"Game Show / Competition,Anime Series",Both,65
+USR_470,20,F,Brazil,Standard,2023-05-18,"Anime Features,Music Videos and Concerts,International Movies,Fantasy",Both,45
+USR_471,30,F,UK,Basic,2024-08-28,"Horror,Spy/Espionage,Special Interest",Movie,90
+USR_472,29,F,France,Basic,2023-03-03,"Entertainment,Documentaries",TV Show,10
+USR_473,50,F,UK,Basic,2024-09-20,"Faith & Spirituality,Classic & Cult TV,LGBTQ Movies,Military and War,TV Thrillers",TV Show,10
+USR_474,22,M,UK,Premium,2023-08-11,"TV Shows,Faith and Spirituality,Arthouse,Survival,Romantic Movies",Both,41
+USR_475,20,M,Mexico,Basic,2023-03-11,"Animation,Comedies,Classic Movies,Teen TV Shows",Both,38
+USR_476,54,F,UK,Basic,2024-01-07,"Action-Adventure,LGBTQ Movies,Documentaries,Comedy",Movie,90
+USR_477,19,M,Japan,Basic,2023-06-14,"TV Comedies,Parody",Both,49
+USR_478,30,F,UK,Standard,2024-01-10,"Historical,Military and War,Kids,Arthouse",Both,31
+USR_479,45,M,Canada,Standard,2024-06-01,"Classic & Cult TV,Faith and Spirituality",TV Show,10
+USR_480,20,Other,USA,Standard,2023-02-03,"Police/Cop,Romance,Science Fiction,Movies,Talk Show and Variety",TV Show,10
+USR_481,33,F,Japan,Premium,2024-11-16,"Action-Adventure,Sci-Fi & Fantasy,Comedy,Musical,TV Horror",Both,41
+USR_482,64,F,USA,Standard,2023-05-30,"Adventure,Classic Movies,Lifestyle,Children & Family Movies,TV Dramas",Both,31
+USR_483,19,F,Brazil,Standard,2024-10-28,"Kids' TV,Action,LGBTQ Movies",Movie,90
+USR_484,63,M,USA,Premium,2024-08-24,"Action-Adventure,Military and War,Buddy",Both,64
+USR_485,40,F,Mexico,Premium,2024-07-13,"Science Fiction,Crime TV Shows",Both,42
+USR_486,29,F,USA,Premium,2023-06-11,"Korean TV Shows,Arts,TV Dramas",Movie,90
+USR_487,26,M,France,Basic,2023-06-30,"Reality,Suspense,Adventure,Romantic TV Shows",TV Show,10
+USR_488,39,F,Japan,Premium,2022-12-25,"Unscripted,Music,TV Thrillers,Documentary,International",Both,47
+USR_489,66,M,France,Basic,2023-12-25,"Classic & Cult TV,Horror Movies,Thriller,Dramas",Movie,90
+USR_490,38,M,France,Basic,2024-02-04,"Special Interest,Faith and Spirituality,Sports,International Movies,Drama",Both,64
+USR_491,57,Other,Mexico,Premium,2024-07-19,"Kids,Family",TV Show,10
+USR_492,40,F,USA,Basic,2023-01-29,"Music,TV Comedies,Science & Nature TV,International TV Shows,Teen TV Shows",TV Show,10
+USR_493,64,M,UK,Premium,2023-11-06,"Faith and Spirituality,TV Sci-Fi & Fantasy,Documentaries,Cult Movies,Travel",TV Show,10
+USR_494,60,M,USA,Basic,2024-08-17,"Spanish-Language TV Shows,Romantic Movies,TV Dramas",Both,32
+USR_495,59,M,India,Basic,2024-02-26,"Independent Movies,Survival,Game Show / Competition,Documentary",TV Show,10
+USR_496,63,Other,Brazil,Standard,2024-11-13,"Romantic TV Shows,Children & Family Movies",Both,35
+USR_497,39,Other,Germany,Standard,2023-03-15,"Military and War,Game Show / Competition,Special Interest,Teen TV Shows",Both,47
+USR_498,40,F,USA,Standard,2024-04-23,"Western,Science & Nature TV",Both,35
+USR_499,44,M,Australia,Basic,2023-11-11,"Adventure,Military and War,Docuseries,Crime",Movie,90
+USR_500,47,F,UK,Basic,2023-12-01,"Thriller,TV Shows",Both,40
