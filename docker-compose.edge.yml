@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.edge
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/movie_recommender
+      - MODEL_CACHE_SIZE=100MB
+      - MAX_WORKERS=2
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 512M
+    depends_on:
+      - db
+    volumes:
+      - ./data:/app/data:ro
+      - model_cache:/app/model_cache
+
+  db:
+    image: postgres:13-alpine
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=movie_recommender
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+    command: postgres -c shared_buffers=128MB -c max_connections=20
+
+volumes:
+  postgres_data:
+  model_cache:

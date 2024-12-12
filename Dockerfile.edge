@@ -1,0 +1,33 @@
+# Use a lightweight Python base image
+FROM python:3.9-slim-buster
+
+# Set working directory
+WORKDIR /app
+
+# Install only required system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements first for better caching
+COPY requirements.txt .
+
+# Install dependencies with minimal extras
+RUN pip install --no-cache-dir -r requirements.txt \
+    && find /usr/local/lib/python3.9/site-packages -name "*.pyc" -delete \
+    && find /usr/local/lib/python3.9/site-packages -name "__pycache__" -delete
+
+# Copy only necessary application files
+COPY movie_recommender/ ./movie_recommender/
+COPY alembic/ ./alembic/
+COPY alembic.ini .
+
+# Set environment variables for optimization
+ENV PYTHONOPTIMIZE=1
+ENV PYTHONDONTWRITEBYTECODE=1
+
+# Expose port
+EXPOSE 8000
+
+# Command to run the application with uvicorn
+CMD ["uvicorn", "movie_recommender.api.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "2"]

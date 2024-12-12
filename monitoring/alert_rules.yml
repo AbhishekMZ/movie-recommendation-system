@@ -1,0 +1,29 @@
+groups:
+  - name: movie-recommender
+    rules:
+      - alert: HighMemoryUsage
+        expr: container_memory_usage_bytes{container_name="movie-recommender"} > 450MB
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: High memory usage on edge device
+          description: Container memory usage is above 450MB for 5 minutes
+
+      - alert: HighCPUUsage
+        expr: rate(container_cpu_usage_seconds_total{container_name="movie-recommender"}[5m]) * 100 > 80
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: High CPU usage on edge device
+          description: Container CPU usage is above 80% for 5 minutes
+
+      - alert: APILatencyHigh
+        expr: http_request_duration_seconds{quantile="0.9"} > 2
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: High API latency
+          description: 90th percentile of API request duration is above 2 seconds
