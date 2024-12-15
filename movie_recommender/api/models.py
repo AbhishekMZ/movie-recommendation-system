@@ -1,5 +1,5 @@
 from pydantic import BaseModel, EmailStr
-from typing import List, Optional
+from typing import List, Optional, Dict
 from datetime import datetime
 
 class UserBase(BaseModel):
@@ -51,3 +51,18 @@ class RecommendationResponse(BaseModel):
     
     class Config:
         from_attributes = True
+
+class TrainingResponse(BaseModel):
+    status: str
+    message: str
+    run_id: str
+
+class ModelInfo(BaseModel):
+    run_id: str
+    start_time: int
+    metrics: Dict[str, float]
+    parameters: Dict[str, str]
+
+class ModelLoadResponse(BaseModel):
+    status: str
+    message: str
